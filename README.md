@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently following Data Science bootcamp provided by [CLARUSWAY](https://clarusway.com/)
-- 🌱 I’m currently learning Data Science related subjects like Data Analysis, Data Visualization, 
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -21,16 +20,14 @@ Here are some ideas to get you started:
 Data Analyst | PhD in Machine Learning
 
 ## Currently ...
-* 🔭  I’m currently following an online bootcamp provided by CLARUSWAY
-* 🌱  I’m currently learning machine learning tools and algorithms 
-* ⌘ I'm willing to use machine learning algorithms in solving real-life problems
-* 👯  I’m looking to collaborate on open source 
-* :speech_balloon:  I am passionate to learn and cooperate, and I am eager to share my knowledge
+- 🔭 I’m currently following Data Science bootcamp provided by [CLARUSWAY](https://clarusway.com/)
+- 🌱 I’m currently learning Data Science related subjects like Data Analysis, Data Visualization, 
+- :speech_balloon:  I am eager to learn and share knowledge
 
 ## :man::woman: Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hsaglamlar)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:hsaglamlar@gmail.com)
-<a href="https://public.tableau.com/app/profile/hsaglamlar#!/?newProfile=&activeTab=0" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="30"/> </a>
+<a href="https://public.tableau.com/app/profile/halil.saglamlar" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="30"/> </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsaglamlar" alt="hsaglamlar" /> </p>
 
 ## 💻 Python Libraries
