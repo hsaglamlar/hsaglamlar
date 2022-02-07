@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **hsaglamlar/hsaglamlar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 # Halil Saglamlar
 
 Data Science Trainee | PhD in Machine Learning
+
+### Hi there 👋
 
 ## Currently ...
 - 🔭 I’m currently following Data Science bootcamp provided by [CLARUSWAY](https://clarusway.com/)
