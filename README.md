@@ -44,7 +44,7 @@ Data Science Trainee | PhD in Machine Learning
 ## 💻 Languages
 
 <a href="#" target="_blank"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="50"/> </a>
-<a href="#" target="_blank"> <img src="MATLAB_logo_PNG2.png" alt="Matlab" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://www.marinetraining.eu/sites/default/files/styles/course_view/public/course/Matlab-Logo.png?itok=VGTH9xL0" alt="Matlab" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/08/SQLite-Logo.jpg" alt="SQLite" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.sysups.nl/wp-content/uploads/2018/08/microsoft_sql_database_logo.png" alt="SQLserver" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://e7.pngegg.com/pngimages/390/229/png-clipart-logo-html5-brand-design-text-logo.png" alt="HTML" height="50"/> </a>
