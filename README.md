@@ -42,19 +42,19 @@ Data Science Trainee | PhD in Machine Learning
 
 ## 💻 Languages
 
-<a href="#" target="_blank"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="70"/> </a>
-<a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/08/SQLite-Logo.jpg" alt="SQLite" height="70"/> </a>
-<a href="#" target="_blank"> <img src="https://www.sysups.nl/wp-content/uploads/2018/08/microsoft_sql_database_logo.png" alt="SQLserver" height="70"/> </a>
-<a href="#" target="_blank"> <img src="https://e7.pngegg.com/pngimages/390/229/png-clipart-logo-html5-brand-design-text-logo.png" alt="HTML" height="70"/> </a>
+<a href="#" target="_blank"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="50"/> </a>
+<a href="#" target="_blank"> <img src="MATLAB_logo_PNG2.png" alt="Matlab" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/08/SQLite-Logo.jpg" alt="SQLite" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://www.sysups.nl/wp-content/uploads/2018/08/microsoft_sql_database_logo.png" alt="SQLserver" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://e7.pngegg.com/pngimages/390/229/png-clipart-logo-html5-brand-design-text-logo.png" alt="HTML" height="50"/> </a>
 
   
 ## ⚙ Tools
 
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="gitHub" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://zappysys.com/blog/wp-content/uploads/2018/07/jira-logo.jpg" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://www.seekpng.com/png/detail/373-3732461_google-sheets-is-an-online-spreadsheet-solution-similar.png" alt="Google Sheets" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://e7.pngegg.com/pngimages/239/228/png-clipart-html-css3-cascading-style-sheets-logo-markup-language-digital-agency-miscellaneous-blue.png" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="gitHub" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://zappysys.com/blog/wp-content/uploads/2018/07/jira-logo.jpg" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a>
+
 </p>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=hsaglamlar&theme=chartreuse-dark" alt="my github stats" width="45%"/>&nbsp;
