@@ -21,8 +21,8 @@ Data Science Trainee | PhD in Machine Learning
 ### Hi there 👋
 
 ## Currently ...
-- 🔭 I’m currently following Data Science bootcamp provided by [CLARUSWAY](https://clarusway.com/)
-- 🌱 I’m currently learning Data Science related subjects like Data Analysis and Data Visualization.
+- 🔭 I’m currently loking for a Data Science position
+- 🌱 I’m currently improving Data Science related subjects like Data Analysis and Data Visualization.
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hsaglamlar)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:hsaglamlar@gmail.com)
