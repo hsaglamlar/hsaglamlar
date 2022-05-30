@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 
 # Halil Saglamlar
 
-Data Science Trainee | PhD in Machine Learning
+Data Science | PhD in Machine Learning
 
 ### Hi there 👋
 
 ## Currently ...
-- 🔭 I’m currently loking for a Data Science position
-- 🌱 I’m currently improving Data Science related subjects like Data Analysis and Data Visualization.
+- 🔭 loking for a Data Science position
+- 🌱 improving Data Science related subjects like Data Analysis and Data Visualization.
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hsaglamlar)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:hsaglamlar@gmail.com)
