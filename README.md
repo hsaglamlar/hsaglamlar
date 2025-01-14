@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Halil Saglamlar
 
-Data Science | PhD in Machine Learning
+AI Research Engineer | PhD in Machine Learning | Data Science
 
 ### Hi there 👋
 
