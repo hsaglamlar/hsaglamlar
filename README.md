@@ -32,7 +32,7 @@ AI Research Engineer | PhD in Machine Learning | Data Science
 ## 💻 Languages
 
 <a href="#" target="_blank"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://www.marinetraining.eu/sites/default/files/styles/course_view/public/course/Matlab-Logo.png?itok=VGTH9xL0" alt="Matlab" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/08/SQLite-Logo.jpg" alt="SQLite" height="50"/> </a>
 
   
